@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pratyaksh suri
-- 👀 I’m interested in Deep Learning (NLP, Neural networks etc.) 
-- 🌱 I’m currently learning TensorFlow and Pytorch (for Machine Learning and Deep Learning)
+- 👀 I’m interested in Python Programming language 
+- 🌱 I’m currently learning TensorFlow and Pytorch 
 - ✍ Pursuing B.Tech. Mechanical with Computer Science from Dayalbagh Educational Institute.
 - 📫 How to reach me: Email- pratyakshsuri20@gmail.com
 - 📫 Message me through my portfolio website - https://pratyakshsuri2003.github.io/Portfolio_Pratyaksh/
