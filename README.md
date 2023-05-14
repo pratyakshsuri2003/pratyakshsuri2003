@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pratyaksh suri
-- 👀 I’m interested in Python Programming language 
-- 🌱 I’m currently learning TensorFlow and Pytorch 
-- ✍ Pursuing B.Tech. Mechanical with Computer Science from Dayalbagh Educational Institute.
+- 👀 I’m interested in Machine Learning 
+- 🌱 I’m currently working on machine learning using TensorFlow and Pytorch 
+- ✍ Pursuing B.Tech in Computer Science from Dayalbagh Educational Institute.
 - 📫 How to reach me: Email- pratyakshsuri20@gmail.com
-- 📫 Message me through my portfolio website - https://pratyakshsuri2003.github.io/Portfolio_Pratyaksh/
 - 📫 LinkedIn - https://www.linkedin.com/in/pratyaksh-suri-603b67211/
