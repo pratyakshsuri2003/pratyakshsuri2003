@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pratyaksh suri
-- 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently working on machine learning using TensorFlow and Pytorch 
+- 👀 I’m interested in Software Engineer or a Machine Learning Engineer Role. 
+- 🌱 I’m currently working in Data Science Machine learning  
 - ✍ Pursuing B.Tech in Computer Science from Dayalbagh Educational Institute.
 - 📫 How to reach me: Email- pratyakshsuri20@gmail.com
 - 📫 LinkedIn - https://www.linkedin.com/in/pratyaksh-suri-603b67211/
