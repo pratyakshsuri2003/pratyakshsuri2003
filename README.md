@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pratyaksh suri
-- 👀 I’m interested in Software Engineer or a Machine Learning Engineer Role. 
-- 🌱 I’m currently working in Data Science Machine learning  
+- 👀 I’m interested in DATA SCIENTIST or a MACHINE LEARNING ENGINEER Role. 
+- 🌱 I’m currently working in DATA SCIENCE  and MACHINE LEARNING  
 - ✍ Pursuing B.Tech in Computer Science from Dayalbagh Educational Institute.
 - 📫 How to reach me: Email- pratyakshsuri20@gmail.com
 - 📫 LinkedIn - https://www.linkedin.com/in/pratyaksh-suri-603b67211/
