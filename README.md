@@ -7,28 +7,14 @@
 
 ## CERTIFICATIONS
 
-![coursera sql for datascience](https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/084ae212-4d26-490a-b78d-de93a8a74c1e)
-
-![IMG-20220525-WA0005](https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/30c180f1-9e74-4839-9280-1acd84f13dec)
-
-![microsoft excel](https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/22a8530a-1cec-4076-bf00-1aa31b287940)
-
-![ml bootcamp](https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/755edfa5-617c-4ca2-a2c8-00c145c3468e)
-
-![ML logistic](https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/4cacff51-22e4-4ff3-8430-34633bf9fc38)
-
-![python udemy](https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/0eb7e2d8-0704-4a5f-ae4a-26d026297b57)
-
-![SIH](https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/209343e8-6857-4382-b8d4-4ba6c4b2408d)
-
-![sql basics hackerrank](https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/5f9741da-34c1-4795-8387-18fb9c3bf62f)
-
-![SQL](https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/0f2223dc-e34c-495f-a3f0-9161b41f30b3)
-
-![Tableau Training - Certificate of Completion](https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/4c6e4f12-3f21-412e-8244-bdf4969d5085)
+| <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/084ae212-4d26-490a-b78d-de93a8a74c1e" width="200" alt="coursera sql for datascience"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/30c180f1-9e74-4839-9280-1acd84f13dec" width="200" alt="IMG-20220525-WA0005"> |
+| --- | --- |
+| <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/22a8530a-1cec-4076-bf00-1aa31b287940" width="200" alt="microsoft excel"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/755edfa5-617c-4ca2-a2c8-00c145c3468e" width="200" alt="ml bootcamp"> |
+| <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/4cacff51-22e4-4ff3-8430-34633bf9fc38" width="200" alt="ML logistic"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/0eb7e2d8-0704-4a5f-ae4a-26d026297b57" width="200" alt="python udemy"> |
+| <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/209343e8-6857-4382-b8d4-4ba6c4b2408d" width="200" alt="SIH"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/5f9741da-34c1-4795-8387-18fb9c3bf62f" width="200" alt="sql basics hackerrank"> |
+| <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/0f2223dc-e34c-495f-a3f0-9161b41f30b3" width="200" alt="SQL"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/4c6e4f12-3f21-412e-8244-bdf4969d5085" width="200" alt="Tableau Training - Certificate of Completion"> |
 
 ## Achievements
 
-![5 star sql](https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/a7ecf660-8e65-4d9a-a0d2-11244ce13467)
-
-![Student Ambassador_IIT Bombay_1Stop](https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/f35aaf95-9146-426f-860e-79f44b8be584)
+| <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/a7ecf660-8e65-4d9a-a0d2-11244ce13467" width="200" alt="5 star sql"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/f35aaf95-9146-426f-860e-79f44b8be584" width="200" alt="Student Ambassador_IIT Bombay_1Stop"> |
+| --- | --- |
