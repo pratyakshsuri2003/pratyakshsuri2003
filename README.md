@@ -7,15 +7,15 @@
 
 ## CERTIFICATIONS
 
-| <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/084ae212-4d26-490a-b78d-de93a8a74c1e" width="250px" height="250px"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/30c180f1-9e74-4839-9280-1acd84f13dec" width="250px" height="250px"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/22a8530a-1cec-4076-bf00-1aa31b287940" width="250px" height="250px"> |
+| <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/084ae212-4d26-490a-b78d-de93a8a74c1e" width="150px" height="150px"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/30c180f1-9e74-4839-9280-1acd84f13dec" width="150px" height="150px"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/22a8530a-1cec-4076-bf00-1aa31b287940" width="150px" height="150px"> |
 | --- | --- | --- |
 | Coursera SQL for Data Science | ML Bootcamp | Microsoft Excel |
 
-| <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/755edfa5-617c-4ca2-a2c8-00c145c3468e" width="250px" height="250px"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/89adcdf8-d4b4-4664-bd9d-38a1ab518626" width="250px" height="250px"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/4cacff51-22e4-4ff3-8430-34633bf9fc38" width="250px" height="250px"> |
+| <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/755edfa5-617c-4ca2-a2c8-00c145c3468e" width="150px" height="150px"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/89adcdf8-d4b4-4664-bd9d-38a1ab518626" width="150px" height="150px"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/4cacff51-22e4-4ff3-8430-34633bf9fc38" width="150px" height="150px"> |
 | --- | --- | --- |
 | ML Bootcamp | ML Logistic | Python Udemy |
 
-| <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/5f9741da-34c1-4795-8387-18fb9c3bf62f" width="250px" height="250px"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/0f2223dc-e34c-495f-a3f0-9161b41f30b3" width="250px" height="250px"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/0f2223dc-e34c-495f-a3f0-9161b41f30b3" width="250px" height="250px"> |
+| <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/5f9741da-34c1-4795-8387-18fb9c3bf62f" width="150px" height="150px"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/0f2223dc-e34c-495f-a3f0-9161b41f30b3" width="150px" height="150px"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/0f2223dc-e34c-495f-a3f0-9161b41f30b3" width="150px" height="150px"> |
 | --- | --- | --- |
 | SIH | SQL Basics | SQL |
 
