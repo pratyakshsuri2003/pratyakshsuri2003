@@ -12,12 +12,15 @@
 | Coursera SQL for Data Science | ML Bootcamp | Microsoft Excel |
 
 | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/755edfa5-617c-4ca2-a2c8-00c145c3468e" width="250px" height="250px"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/89adcdf8-d4b4-4664-bd9d-38a1ab518626" width="250px" height="250px"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/4cacff51-22e4-4ff3-8430-34633bf9fc38" width="250px" height="250px"> |
+| --- | --- | --- |
 | ML Bootcamp | ML Logistic | Python Udemy |
 
 | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/5f9741da-34c1-4795-8387-18fb9c3bf62f" width="250px" height="250px"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/0f2223dc-e34c-495f-a3f0-9161b41f30b3" width="250px" height="250px"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/0f2223dc-e34c-495f-a3f0-9161b41f30b3" width="250px" height="250px"> |
+| --- | --- | --- |
 | SIH | SQL Basics | SQL |
 
 | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/4c6e4f12-3f21-412e-8244-bdf4969d5085" width="250px" height="250px"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/ab2d5e3e-d9c5-4b74-9686-59dc5cf41c2d" width="250px" height="250px"> | |
+| --- | --- | --- |
 | Tableau Training - Certificate of Completion | Grip Foundation | |
 
 ## Achievements
