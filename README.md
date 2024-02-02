@@ -21,10 +21,6 @@ src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/4c6
 | --- | --- | --- |
 | SIH | Intermediate SQL | Internshalla Tableau Training |
 
-| <img  <img  | |
-| --- | --- | --- |
-|  - Certificate of Completion |  | |
-
 ## Achievements
 
 | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/a7ecf660-8e65-4d9a-a0d2-11244ce13467" width="250" alt="5 star sql"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/f35aaf95-9146-426f-860e-79f44b8be584" width="250" alt="Student Ambassador_IIT Bombay_1Stop"> | <img
