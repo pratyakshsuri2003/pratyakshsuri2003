@@ -12,7 +12,7 @@
 | --- | --- | --- |
 | Coursera SQL for Data Science | ML Bootcamp | Microsoft Excel |
 
-| <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/755edfa5-617c-4ca2-a2c8-00c145c3468e" width="200px" height="150px"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/89adcdf8-d4b4-4664-bd9d-38a1ab518626" width="200px" height="150px"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/4cacff51-22e4-4ff3-8430-34633bf9fc38" width="200px" height="150px"> |
+| <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/755edfa5-617c-4ca2-a2c8-00c145c3468e" width="200px" height="150px"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/89adcdf8-d4b4-4664-bd9d-38a1ab518626" width="200px" height="150px"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/16290b07-6d1b-4b09-9553-2c1b6f30b5a0" width="200px" height="150px"> |
 | --- | --- | --- |
 | ML Bootcamp | ML Logistic | Python Udemy |
 
