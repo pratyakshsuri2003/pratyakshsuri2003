@@ -9,9 +9,9 @@
 ## Published Paper on IRJMETS
 | | #### Title: Data Protection: SQL Injection Prevention | |
 
-| Certificate                                          | Abstract                                                                                                                                                                                                                                                                                         |
-|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/6772dd62-e9b7-49a6-b58e-af9b3a9848d0" width="200px" height="600px> | Web servers face increasing vulnerabilities and a surge in script attacks, particularly ASP or PHP scripting injections and SQL injection. SQL injection exploits input validation weaknesses by introducing malicious characters, allowing threat actors to manipulate data. This paper explores SQL injection's core principles, execution mechanics, detection methods, and preventative strategies. It also analyzes practical cases, enhancing web security within ASP website platforms. |
+| Certificate | Abstract |
+|-------------|----------|
+| <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/blob/main/assets/115720372/6772dd62-e9b7-49a6-b58e-af9b3a9848d0.png" width="200px" height="600px"> | Web servers face increasing vulnerabilities and a surge in script attacks, particularly ASP or PHP scripting injections and SQL injection. SQL injection exploits input validation weaknesses by introducing malicious characters, allowing threat actors to manipulate data. This paper explores SQL injection's core principles, execution mechanics, detection methods, and preventative strategies. It also analyzes practical cases, enhancing web security within ASP website platforms. |
 
 
 ## CERTIFICATIONS
