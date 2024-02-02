@@ -11,8 +11,10 @@
 
 | Certificate | Abstract |
 |-------------|----------|
-| <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/blob/main/assets/115720372/6772dd62-e9b7-49a6-b58e-af9b3a9848d0.png" width="200px" height="600px"> | Web servers face increasing vulnerabilities and a surge in script attacks, particularly ASP or PHP scripting injections and SQL injection. SQL injection exploits input validation weaknesses by introducing malicious characters, allowing threat actors to manipulate data. This paper explores SQL injection's core principles, execution mechanics, detection methods, and preventative strategies. It also analyzes practical cases, enhancing web security within ASP website platforms. |
+| <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/53edc30b-4a4c-4928-98cd-2fbe8112589c" width="400px" height="600px"> | Web servers face increasing vulnerabilities and a surge in script attacks, particularly ASP or PHP scripting injections and SQL injection. SQL injection exploits input validation weaknesses by introducing malicious characters, allowing threat actors to manipulate data. This paper explores SQL injection's core principles, execution mechanics, detection methods, and preventative strategies. It also analyzes practical cases, enhancing web security within ASP website platforms. Web applications play a vital role in our digitally-centric world, but they are exposed to various security
+threats. SQL injection stands out as a pervasive and harmful attack vector that leverages user inputs to execute unauthorized queries and steal sensitive information. This research delves into prevalent SQL injection attack forms, their mechanisms, and an approach to identify such attacks through SQL query analysis. |
 
+![certificate irjmets]()
 
 ## CERTIFICATIONS
 
