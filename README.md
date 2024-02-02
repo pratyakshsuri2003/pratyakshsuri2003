@@ -16,7 +16,7 @@
 | --- | --- | --- |
 | ML Bootcamp | ML Logistic | Python Udemy |
 
-| <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/5f9741da-34c1-4795-8387-18fb9c3bf62f" width="200px" height="150px"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/0f2223dc-e34c-495f-a3f0-9161b41f30b3" width="200px" height="150px"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/0f2223dc-e34c-495f-a3f0-9161b41f30b3" width="200px" height="150px"> |
+| <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/98347a20-7393-4f0d-8be2-ac18b3a1fd06" width="200px" height="150px"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/0f2223dc-e34c-495f-a3f0-9161b41f30b3" width="200px" height="150px"> | <img src="https://github.com/pratyakshsuri2003/pratyakshsuri2003/assets/115720372/0f2223dc-e34c-495f-a3f0-9161b41f30b3" width="200px" height="150px"> |
 | --- | --- | --- |
 | SIH | SQL Basics | SQL |
 
