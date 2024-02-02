@@ -3,6 +3,7 @@
 - 🌱 I’m currently working in DATA SCIENCE  and MACHINE LEARNING  
 - ✍ Pursuing B.Tech in Computer Science from Dayalbagh Educational Institute.
 - 📫 How to reach me: Email- pratyakshsuri20@gmail.com
+- 📫 Personal Portfolio website - https://pratyakshsuri.me/
 - 📫 LinkedIn - https://www.linkedin.com/in/pratyaksh-suri-603b67211/
 
 ## CERTIFICATIONS
